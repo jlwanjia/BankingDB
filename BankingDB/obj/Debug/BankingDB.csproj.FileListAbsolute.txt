@@ -1,0 +1,13 @@
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\bin\Debug\BankingDB.exe.config
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\bin\Debug\BankingDB.exe
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\bin\Debug\BankingDB.pdb
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.csproj.AssemblyReference.cache
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\Interop.ADODB.dll
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.csproj.ResolveComReference.cache
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.Form1.resources
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.Properties.Resources.resources
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.csproj.GenerateResource.cache
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.csproj.CoreCompileInputs.cache
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.exe
+C:\Users\jlwan\source\repos\C#\BankingDB\BankingDB\obj\Debug\BankingDB.pdb
